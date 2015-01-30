@@ -30,11 +30,11 @@
 
 ##Creating a 301 Redirect##
 
-> <iframe width="540" height="320" src="https://www.youtube.com/embed/7HLU9GP0Psc" frameborder="0" allowfullscreen></iframe>
+> <iframe width="912" height="720" src="https://www.youtube.com/embed/ceSMfR68loo" frameborder="0" allowfullscreen></iframe>
 
 ##Uploading images with the File Browser##
 
-> <iframe width="540" height="320" src="https://www.youtube.com/embed/o1b-ZYV9AIY" frameborder="0" allowfullscreen></iframe>
+> <iframe width="540" height="320" src="https://www.youtube.com/embed/7HLU9GP0Psc" frameborder="0" allowfullscreen></iframe>
 
 ##Changing site settings##
 
