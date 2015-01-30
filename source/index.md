@@ -11,7 +11,8 @@ includes:
   - accounts
   - site_building
   - lead_manager
-  - instructional_videos
+  - site_building_screencasts
+  - lead_manager_screencasts
   - webinar_archive
   - faq
 
