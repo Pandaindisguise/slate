@@ -49,9 +49,9 @@ The User Manager gives you the ability to see an overview of each user’s permi
 
 ## Permissions
 
-> <img src="http://staging.docs.realgeeks.com/_media/accounts:permissions.png?w=860&tok=f5b640"/>
-
 ### Lead Manager
+
+> <img src="http://staging.docs.realgeeks.com/_media/accounts:permissions.png?w=860&tok=f5b640"/>
 
 Currently there are 2 roles listed for the Lead Manager, but they can only be changed from within the [Lead Manager Settings](https://leads.realgeeks.com/settings).
 

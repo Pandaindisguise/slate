@@ -10,7 +10,9 @@ includes:
   - introduction
   - accounts
   - site_building
+  - site_building_screencasts
   - lead_manager
+  - lead_manager_screencasts
   - webinar_archive
   - faq
 

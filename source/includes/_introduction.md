@@ -8,8 +8,6 @@ If you have any questions, you can get in touch with us here: [Support](https://
 
 ## Quick Start
 
-> <img src="http://fc09.deviantart.net/fs70/i/2013/147/c/e/kitten_png_by_lg_design-d66s97o.png"/>
-
 Congratulations on your new Real Geeks site!
 
 Here is the bare minimum that you'll need to do to set up your site:

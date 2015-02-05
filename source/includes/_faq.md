@@ -2,6 +2,8 @@
 
 ## Accounts
 
+> <img src="http://fc09.deviantart.net/fs70/i/2013/147/c/e/kitten_png_by_lg_design-d66s97o.png"/>
+
 **What does "single sign-on" actually mean?**
 
 It would mean that if you logged into http://accounts.realgeeks.com/ you could then just type in the address to your website administration page http://www.yourrealgeekssite.com/admin/ and you would be automatically logged in, and vice-versa.

@@ -1,13 +1,5 @@
 # Lead Manager
 
-##Lead Manager Overview##
-
-> <iframe width="540" height="320" src="https://www.youtube.com/embed/atpS9QBuqNk" frameborder="0" allowfullscreen></iframe>
-
-##New Log In Screen##
-
-> <iframe width="540" height="320" src="https://www.youtube.com/embed/PVEss9KUvcs" frameborder="0" allowfullscreen></iframe>
-
 ##Dashboard##
 ###My Summary###
 ###My New Leads###
