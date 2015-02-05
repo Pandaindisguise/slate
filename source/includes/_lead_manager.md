@@ -25,4 +25,4 @@ Changing Roles between admin and agent (admin)
 ##Top Producer Integration##
 ##Gmail Integration##
 
-> <iframe width="540" height="320" src="https://www.youtube.com/embed/6zTb-E3vJkA" frameborder="0" allowfullscreen></iframe>
+<iframe width="540" height="320" src="https://www.youtube.com/embed/6zTb-E3vJkA" frameborder="0" allowfullscreen></iframe>

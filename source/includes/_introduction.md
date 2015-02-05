@@ -1,12 +1,10 @@
 # Real Geeks Documentation
 
-> Here is where you will see examples!
-
 Welcome to the Real Geeks Documentation! Here you will find useful information for building out your site. You can find the navigation in the Left Column, and examples in the Right Column.
 
 If you have any questions, you can get in touch with us here: [Support](https://www.realgeeks.com/support/)
 
-## Quick Start
+## Getting Started
 
 Congratulations on your new Real Geeks site!
 

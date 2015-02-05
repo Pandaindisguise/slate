@@ -2,7 +2,7 @@
 
 ## Logging In
 
-> <img src="http://i.imgur.com/e9ikodL.gif"/>
+<img src="http://i.imgur.com/e9ikodL.gif"/>
 
 The Real Geeks Login is a single sign-on system used across all of our products. If you login to the Accounts system, you are also logged in to your Real Geeks Site Admin, Lead Manager, and vice versa, provided that you have the permissions needed to access them by your Site Owner.
 
@@ -12,27 +12,27 @@ If you have any questions, please contact support: [Support](https://www.realgee
 
 ## Websites
 
-> <img src="http://staging.docs.realgeeks.com/_media/accounts:website-list.png?w=900&tok=854913"/>
+<img src="http://staging.docs.realgeeks.com/_media/accounts:website-list.png?w=900&tok=854913"/>
 
 Here you will find a listing of sites you own or contribute to. On the left you will find links to your Real Geeks Site Admin and the Lead Manager for that site. On the right is an “Edit/Add Users” button which will bring up permissions for each user that has been added to that site.
 
 ## User Management
 
-> <img src="http://staging.docs.realgeeks.com/_media/accounts:user-manager.png?w=900&tok=4ec657"/>
+<img src="http://staging.docs.realgeeks.com/_media/accounts:user-manager.png?w=900&tok=4ec657"/>
 
 The User Manager gives you the ability to see an overview of each user’s permissions on the left, the ability to edit permissions, edit a user, remove a user, and add a user on the right.
 
-> <img src="http://staging.docs.realgeeks.com/_media/accounts:add-existing-user.png?w=860&tok=69b08f"/>
+<img src="http://staging.docs.realgeeks.com/_media/accounts:add-existing-user.png?w=860&tok=69b08f"/>
 
 ### Accessing the Permissions System
 
-> <img src="http://staging.docs.realgeeks.com/_media/accounts:add-new-user.png?w=860&tok=02067d"/>
+<img src="http://staging.docs.realgeeks.com/_media/accounts:add-new-user.png?w=860&tok=02067d"/>
 
 <aside class="notice">If you have not used the permissions system yet or you have not yet been an administrator for the accounts system– you need to have the registered owner of the site (i.e. the person paying the bills) to proceed any further.</aside>
 
 &nbsp; | Follow These Steps:
 ---| ---
-1. | Login to <a href='https://accounts.realgeeks.com'>Accounts</a> with your email and password.
+1. | Login to <a href='https://accounts.realgeeks.com'>Accounts</awith your email and password.
 2. | Click on the “Websites” heading in the accounts management system. It is now, by default, your homepage.
 3. | Select the site you would like to modify by clicking the orange “Edit/Add Users” button on the right.
 4. | If the user does not yet exist, you'll then be taken to a screen that will allow you to create the new user.
@@ -51,7 +51,7 @@ The User Manager gives you the ability to see an overview of each user’s permi
 
 ### Lead Manager
 
-> <img src="http://staging.docs.realgeeks.com/_media/accounts:permissions.png?w=860&tok=f5b640"/>
+<img src="http://staging.docs.realgeeks.com/_media/accounts:permissions.png?w=860&tok=f5b640"/>
 
 Currently there are 2 roles listed for the Lead Manager, but they can only be changed from within the [Lead Manager Settings](https://leads.realgeeks.com/settings).
 
@@ -71,7 +71,7 @@ Settings | The user may modify site settings (phone number, logo, header image, 
 
 ### Remove A User
 
-> <img src="http://staging.docs.realgeeks.com/_media/accounts:remove-user-confirmation.png?w=860&tok=0ce8fd"/>
+<img src="http://staging.docs.realgeeks.com/_media/accounts:remove-user-confirmation.png?w=860&tok=0ce8fd"/>
 
 &nbsp; | Follow These Steps:
 ---| ---
@@ -82,12 +82,12 @@ Settings | The user may modify site settings (phone number, logo, header image, 
 
 ## Billing
 
-><img src="http://staging.docs.realgeeks.com/_media/accounts:billing.png?w=860&tok=4b7fbf"/>
+<img src="http://staging.docs.realgeeks.com/_media/accounts:billing.png?w=860&tok=4b7fbf"/>
 
 From this screen you can modify your Credit Card Details, View your Receipt History, and see your Upcoming Billing Summary. 
 
 ## Profile
 
-><img src="http://staging.docs.realgeeks.com/_media/accounts:profile.png?w=860&tok=557fc4"/>
+<img src="http://staging.docs.realgeeks.com/_media/accounts:profile.png?w=860&tok=557fc4"/>
 
 You can change your Contact Information (First Name, Last Name, Email Address) and change your own Password using this screen.

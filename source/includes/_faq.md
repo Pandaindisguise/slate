@@ -2,7 +2,7 @@
 
 ## Accounts
 
-> <img src="http://fc09.deviantart.net/fs70/i/2013/147/c/e/kitten_png_by_lg_design-d66s97o.png"/>
+<img src="http://fc09.deviantart.net/fs70/i/2013/147/c/e/kitten_png_by_lg_design-d66s97o.png"/>
 
 **What does "single sign-on" actually mean?**
 
@@ -31,8 +31,8 @@ Feel free to contact us via our [Real Geeks Support Form](https://www.realgeeks.
 
 ## Forgot My Password
 
-> <img src="http://www.bloodygoodhorror.com/bgh/files/reviews/caps/vampires-kiss.jpg"/>
-> <img src="http://i.imgur.com/BnNqxB8.gif"/>
+<img src="http://www.bloodygoodhorror.com/bgh/files/reviews/caps/vampires-kiss.jpg"/>
+<img src="http://i.imgur.com/BnNqxB8.gif"/>
 
 **What do I do if I have lost or forgotten my password?**
 
