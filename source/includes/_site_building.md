@@ -90,27 +90,63 @@ There are a number of different types of messages that can be sent to leads. Und
 
 ###New Lead Welcome Email
 
+Needs Content.
+
 ###Auto-responder from the Website
+
+Content: http://staging.docs.realgeeks.com/email:site_auto_responder
 
 ###Property Update Email
 
+Needs Content.
+
 ###Auto-responder from the Lead Manager
 
+Needs Content.
+
 ###Template emails from the Lead Manager
+
+Content: http://staging.docs.realgeeks.com/email:lm_template
 
 ##Recommended Add-ons
 
 Here are a few tools to help you get the most out or your site:
 
-Google Analytics – Real Geeks sets your site up with a Google Analytics account and several goal conversions.
-Google Apps for Business – The email service we recommended.
-Google Webmaster Tools – Simple site management and your interface to how your site appears to Google. Especially useful if you are migrating your domain over to Real Geeks
-Google Adwords – Pay-per-click Ad campaigns
+###Google Analytics
+
+Real Geeks sets your site up with a Google Analytics account and several goal conversions.
+
+Content: Instructions for setting up goals: http://staging.docs.realgeeks.com/site_building:google_analytics
+
+###Google Apps for Business
+
+The email service we recommended.
+
+Content: How to verify domain: http://staging.docs.realgeeks.com/site_building:google_apps_for_business
+
+###Google Webmaster Tools
+
+Simple site management and your interface to how your site appears to Google. Especially useful if you are migrating your domain over to Real Geeks.
+
+Content: How to verify domain: http://staging.docs.realgeeks.com/site_building:google_webmaster_tools
+
+###Google Adwords
+
+Pay-per-click Ad campaigns.
+
+Content: Real Leads Online Marketing Program: http://staging.docs.realgeeks.com/site_building:google_adwords
 
 ##Tools used within Content
 
 ###How to embed Youtube videos
 
+Content: http://staging.docs.realgeeks.com/site_building:embed_youtube
+
 ###How to embed Flash
 
+Content: http://staging.docs.realgeeks.com/site_building:embed_flash
+
 ###How to embed PDF's
+
+Content: http://staging.docs.realgeeks.com/site_building:embed_pdf
+

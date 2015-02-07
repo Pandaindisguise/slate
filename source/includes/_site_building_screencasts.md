@@ -4,8 +4,6 @@
 
 <iframe width="540" height="320" src="https://www.youtube.com/embed/o1b-ZYV9AIY" frameborder="0" allowfullscreen></iframe>
 
-Here is a brief description of the main sections you will edit when setting up the content of your site:
-
 Item | Description
 ---| ---
 Area pages | A content page dedicated to a geographical area.
@@ -20,8 +18,6 @@ Sidebars | Content displayed at the right of the content on each page.
 ##Editing the Homepage##
 
 <iframe width="540" height="320" src="https://www.youtube.com/embed/1mGK2qqV3zA" frameborder="0" allowfullscreen></iframe>
-
-Here is a brief description of the sections you will edit when setting up the home page:
 
 Item | Description
 ---| ---
@@ -185,8 +181,6 @@ Simply <strong>repeat the procedure you followed for the landscape image</strong
 
 
 ##Editing/Adding Blog Content##
-
-Here is a brief description of the main sections you will edit when adding blog content to your site:
 
 Item | Description
 ---| ---

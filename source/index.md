@@ -14,6 +14,7 @@ includes:
   - lead_manager
   - lead_manager_screencasts
   - webinar_archive
+  - troubleshooting
   - faq
 
 search: true
