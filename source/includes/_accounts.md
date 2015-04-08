@@ -2,7 +2,7 @@
 
 ## Logging In
 
-<img src="http://i.imgur.com/e9ikodL.gif"/>
+<img src="images/logging_in.gif"/>
 
 The Real Geeks Login is a single sign-on system used across all of our products. If you login to the Accounts system, you are also logged in to your Real Geeks Site Admin, Lead Manager, and vice versa, provided that you have the permissions needed to access them by your Site Owner.
 
@@ -12,7 +12,7 @@ If you have any questions, please contact support: [Support](https://www.realgee
 
 ## Websites
 
-<img src="http://staging.docs.realgeeks.com/_media/accounts:website-list.png?w=900&tok=854913"/>
+<img src="images/site_list.png"/>
 
 Here you will find a listing of sites you own or contribute to. On the left you will find links to your Real Geeks Site Admin and the Lead Manager for that site. On the right is an “Edit/Add Users” button which will bring up permissions for each user that has been added to that site.
 
