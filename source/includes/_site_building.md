@@ -1,5 +1,23 @@
 # Site Building
 
+Site Building can be done from the backend of your site.  You can access the backend of your site from [Accounts](https://accounts.realgeeks.com/).
+
+It is important to understand the different sections you can edit as well as how to edit them.
+
+For example, after creating a content page, you will generally want to link to page.  To do so, you will need to take the slug from this content page, and add it to another section of your site, commonly in the sidebar or navigation.
+
+In this section we will explain the different elements, how they interact, and the best practices for building out your site.
+
+##Content Editor
+
+We have a great content editor to give you a familiar word processing-type environment for creating your pages. All the formatting essentials are covered and an advanced HTML entry function is available for when the editing tools are not enough.
+
+The content editor works like a stripped-down word processor. Simply type in text, then format it by highlighting it and clicking one of the buttons.
+
+The best way to learn is to experiment until you achieve the desired formatting. Don't worry, it's pretty easy. Here's a cheat sheet:
+
+<img src="images/content_editor.png"/>
+
 ##Page Types
 
 The different types of pages that are available work together to help generate leads on the website. Please read to understand the purpose of each page and how to best utilize them to achieve your goals.
@@ -26,7 +44,7 @@ Footers | provide business contact information, link to external services
 
 An Area page is essentially a content page dedicated to a geographical area. You can set up area pages for regions, cities, or neighborhoods. The Quick Search form at the top of an area page is narrowed down to just the area specified in the Area name field.
 
-You can link Area pages in the sidebars and navigation bars. How to link pages internally
+You can link Area pages in the sidebars and navigation bars described [here](/#linking-and-navigation).
 
 ####Content Pages
 
@@ -34,7 +52,9 @@ Content pages can contain arbitrary content, but for your convenience, we've pro
 
 ####Featured Property Page
 
-Allows you to pull in listings for specific locations and display them on a designated page. How to set up featured property listings
+Allows you to pull in listings for specific locations and display them on a designated page.
+
+How to set up featured property listings:
 
 ###Advanced Search Forms
 

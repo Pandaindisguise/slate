@@ -4,7 +4,7 @@
 
 <img src="images/logging_in.gif"/>
 
-The Real Geeks Login is a single sign-on system used across all of our products. If you login to the Accounts system, you are also logged in to your Real Geeks Site Admin, Lead Manager, and vice versa, provided that you have the permissions needed to access them by your Site Owner.
+The Real Geeks Login is a single sign-on system used across all of our products. If you login to the [Accounts](https://accounts.realgeeks.com/) system, you are also logged in to your Real Geeks Site Admin, Lead Manager, and vice versa, provided that you have the permissions needed to access them by your Site Owner.
 
 If you are having trouble logging in be sure to use the email you used to sign up for your account with.
 
@@ -32,7 +32,7 @@ The User Manager gives you the ability to see an overview of each user’s permi
 
 &nbsp; | Follow These Steps:
 ---| ---
-1. | Login to <a href='https://accounts.realgeeks.com'>Accounts</awith your email and password.
+1. | Login to [Accounts](https://accounts.realgeeks.com/) with your email and password.
 2. | Click on the “Websites” heading in the accounts management system. It is now, by default, your homepage.
 3. | Select the site you would like to modify by clicking the orange “Edit/Add Users” button on the right.
 4. | If the user does not yet exist, you'll then be taken to a screen that will allow you to create the new user.
