@@ -4,7 +4,7 @@ Site Building can be done from the backend of your site.  You can access the bac
 
 It is important to understand the different sections you can edit as well as how to edit them.
 
-For example, after creating a content page, you will generally want to link to page.  To do so, you will need to take the slug from this content page, and add it to another section of your site, commonly in the sidebar or navigation.
+For example, after creating a content page, you will generally want to link to the content page you created.  To do so, you will need to take the slug from this content page, and add it to another section of your site, commonly the sidebar or navigation.
 
 In this section we will explain the different elements, how they interact, and the best practices for building out your site.
 
@@ -30,13 +30,13 @@ A good home page will contain each of these basic page elements:
 
 Item | Description
 ---| ---
-Logo and header image | brand you site and add some above-the-fold artwork
-Navigation bar | general navigation within the site
-Quick search form | the primary call-to-action on the page
-Main content area | here is your opportunity to write about the area in which you do business
-Sample property listings | provide a few listings for search engine indexing
-Sidebars | organize your links, add social media content
-Footers | provide business contact information, link to external services
+Logo and header image | Brand you site and add some above-the-fold artwork
+Navigation bar | General navigation within the site
+Quick search form | The primary call-to-action on the page
+Main content area | Here is your opportunity to write about the area in which you do business
+Sample property listings | Provide a few listings for search engine indexing
+Sidebars | Organize your links, add social media content
+Footers | Provide business contact information, link to external services
 
 ###Area / Content / Featured Listings
 
