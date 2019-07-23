@@ -82,13 +82,17 @@ html, body {
     position: relative;
 
     input {
-      background: $nav-bg;
-      border-width: 0 0 1px 0;
+      background: $nav-subitem-bg;
+      border-width: 0 0 0 0;
       border-color: $search-box-border-color;
       padding: 6px 0 6px 20px;
       box-sizing: border-box;
       margin: $nav-v-padding $nav-padding;
+<<<<<<< HEAD
+      width: $nav-width - 45;
+=======
       width: $nav-width - ($nav-padding*2);
+>>>>>>> lord/master
       outline: none;
       color: $nav-text;
       border-radius: 0; /* ios has a default border radius */
@@ -381,7 +385,11 @@ html, body {
 
   h3, h4, h5, h6 {
     @extend %header-font;
+<<<<<<< HEAD
     font-size: 18px;
+=======
+    font-size: 15px;
+>>>>>>> lord/master
     margin-top: 2.5em;
     margin-bottom: 0.8em;
   }
