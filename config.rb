@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Unique header generation
 require './lib/unique_head.rb'
 
@@ -17,7 +15,6 @@ set :markdown,
     renderer: UniqueHeadCounter
 
 # Assets
->>>>>>> lord/master
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
